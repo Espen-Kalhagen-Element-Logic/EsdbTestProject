@@ -8,4 +8,4 @@ This can be found here: Test project reproducing problem. Specifically look at O
 
 The memory grows linearly with the number of streams ![picture](https://github.com/Espen-Kalhagen-Element-Logic/EsdbTestProject/blob/main/Memory%20usage%20high%20number%20of%20streams.PNG?raw=true)
 
-## The repo also contains two dotnet-dumps that showcase the state at the beginning and after a high number of streams [here](https://github.com/Espen-Kalhagen-Element-Logic/EsdbTestProject/tree/main/dotnet-dumps)
+#### The repo also contains two dotnet-dumps that showcase the state at the beginning and after a high number of streams [here](https://github.com/Espen-Kalhagen-Element-Logic/EsdbTestProject/tree/main/dotnet-dumps)
